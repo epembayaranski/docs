@@ -37,7 +37,7 @@
               },
               {
                 "group": "Pengaturan Pembayaran",
-                "icon":"file-cog",
+                "icon":"folder-gear",
                 "pages": [
                   "main-feature/tarif-perangkatan",
                   "main-feature/fakultas-belumatur-tarif",
@@ -53,44 +53,24 @@
                 ]
               },
               {
-                "group": "Bimbingan Akademik",
-                "icon":"file-spreadsheet",
-                "pages": [
-                  "main-feature/guidance-history"
-                ]
-              },
-              {
-                "group": "Tugas Akhir",
-                "icon":"presentation",
-                "pages": [
-                  "main-feature/thesis-registration"
-                ]
-              },
-              {
-                "group": "Kampus Merdeka",
-                "icon":"briefcase",
-                "pages": [
-                  "main-feature/mbkm-info",
-                  "main-feature/mbkm-registration",
-                  "main-feature/mbkm-announcement"
-                ]
-              },
-              {
                 "group": "Pembayaran",
                 "icon":"wallet",
                 "pages": [
-                  "main-feature/invoice"
+                  "main-feature/pembayaran-manual"
                 ]
               },
               {
-                "group": "Virtual Class",
-                "icon":"cloud",
+                "group": "Integrasi Bank",
+                "icon":"landmark",
                 "pages": [
-                  "main-feature/vc-course-material",
-                  "main-feature/vc-announcement",
-                  "main-feature/vc-task",
-                  "main-feature/vc-exam",
-                  "main-feature/vc-online-discuss"
+                  "main-feature/inquiry-h2h"
+                ]
+              },
+              {
+                "group": "Laporan Pembayaran",
+                "icon":"chart-column",
+                "pages": [
+                  "main-feature/daftar-tarif"
                 ]
               }
             ]

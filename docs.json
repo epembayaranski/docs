@@ -36,11 +36,12 @@
                 ]
               },
               {
-                "group": "Perkuliahan",
-                "icon":"landmark",
+                "group": "Pengaturan Pembayaran",
+                "icon":"settings",
                 "pages": [
-                  "main-feature/course-offerings",
-                  "main-feature/study-plan-card"
+                  "main-feature/tarif-perangkatan",
+                  "main-feature/fakultas-belumatur-tarif",
+                  "main-feature/biaya-pendaftaran"
                 ]
               },
               {

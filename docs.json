@@ -27,11 +27,12 @@
             "expanded": true,
             "pages": [
               {
-                "group": "Informasi Akademik",
-                "icon" : "chart-line",
+                "group": "Akademik",
+                "icon" : "graduation-cap",
                 "pages": [
-                  "main-feature/academic-info",
-                  "main-feature/questionnaire-result"
+                  "main-feature/student",
+                  "main-feature/exam-group",
+                  "main-feature/period-type"
                 ]
               },
               {

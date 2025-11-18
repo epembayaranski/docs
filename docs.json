@@ -127,7 +127,7 @@
     "primary": {
       "type": "button",
       "label": "Aplikasi",
-      "href": "https://staging-et82.ecampuz.com/develop-4/eakademikportal/"
+      "href": "https://staging-et82.ecampuz.com/develop-8.2/epembayaran/"
     }
   },
   "contextual": {

@@ -37,7 +37,7 @@
               },
               {
                 "group": "Pengaturan Pembayaran",
-                "icon":"settings",
+                "icon":"file-cog",
                 "pages": [
                   "main-feature/tarif-perangkatan",
                   "main-feature/fakultas-belumatur-tarif",
@@ -45,10 +45,11 @@
                 ]
               },
               {
-                "group": "Kehadiran",
-                "icon":"calendar-clock",
+                "group": "Tagihan",
+                "icon":"clipboard",
                 "pages": [
-                  "main-feature/online-presence"
+                  "main-feature/pengaturan-tagihan",
+                  "main-feature/riwayat-pengaturan-tagihan"
                 ]
               },
               {

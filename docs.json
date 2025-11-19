@@ -61,14 +61,24 @@
                 "icon":"clipboard",
                 "pages": [
                   "main-feature/tagihan/pengaturan-tagihan",
-                  "main-feature/tagihan/riwayat-pengaturan-tagihan"
+                  "main-feature/tagihan/riwayat-pengaturan-tagihan",
+                  "main-feature/tagihan/tagihan-mhs-belum-diatur",
+                  "main-feature/tagihan/ubah-tagihan-kolektif",
+                  "main-feature/tagihan/hapus-tagihan-kolektif",
+                  "main-feature/tagihan/token-pendaftaran",
+                  "main-feature/tagihan/riwayat-token-pendaftaran"
                 ]
               },
               {
                 "group": "Pembayaran",
                 "icon":"wallet",
                 "pages": [
-                  "main-feature/pembayaran/pembayaran-manual"
+                  "main-feature/pembayaran/pembayaran-manual",
+                  "main-feature/pembayaran/cetak-ulang-kuitansi",
+                  "main-feature/pembayaran/verifikasi-pembayaran",
+                  "main-feature/pembayaran/batalkan-verifikasi",
+                  "main-feature/pembayaran/batalkan-pembayaran",
+                  "main-feature/pembayaran/data-token-pembayaran"
                 ]
               },
               {

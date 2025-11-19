@@ -98,7 +98,7 @@
             ]
           },
           {
-            "group": "administrator",
+            "group": "Administrator",
             "pages": ["manajemen-pengguna"]
           }
         ]

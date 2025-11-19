@@ -30,47 +30,59 @@
                 "group": "Akademik",
                 "icon" : "graduation-cap",
                 "pages": [
-                  "main-feature/student",
-                  "main-feature/exam-group",
-                  "main-feature/period-type"
+                  "main-feature/akademik/mahasiswa",
+                  "main-feature/akademik/kelompok-ujian",
+                  "main-feature/akademik/jenis-periode",
+                  "main-feature/akademik/fakultas",
+                  "main-feature/akademik/program-studi",
+                  "main-feature/akademik/jenjang",
+                  "main-feature/akademik/jalur-masuk",
+                  "main-feature/akademik/gelombang",
+                  "main-feature/akademik/ukt"
                 ]
               },
               {
                 "group": "Pengaturan Pembayaran",
                 "icon":"folder-gear",
                 "pages": [
-                  "main-feature/tarif-perangkatan",
-                  "main-feature/fakultas-belumatur-tarif",
-                  "main-feature/biaya-pendaftaran"
+                  "main-feature/pengaturan-pembayaran/tarif-perangkatan",
+                  "main-feature/pengaturan-pembayaran/fakultas-belumatur-tarif",
+                  "main-feature/pengaturan-pembayaran/biaya-pendaftaran",
+                  "main-feature/pengaturan-pembayaran/ubah-tanggal-pembayaran",
+                  "main-feature/pengaturan-pembayaran/potongan-pembayaran",
+                  "main-feature/pengaturan-pembayaran/periode-pembayaran",
+                  "main-feature/pengaturan-pembayaran/jenis-pembayaran",
+                  "main-feature/pengaturan-pembayaran/jenis-biaya",
+                  "main-feature/pengaturan-pembayaran/status-cicilan"
                 ]
               },
               {
                 "group": "Tagihan",
                 "icon":"clipboard",
                 "pages": [
-                  "main-feature/pengaturan-tagihan",
-                  "main-feature/riwayat-pengaturan-tagihan"
+                  "main-feature/tagihan/pengaturan-tagihan",
+                  "main-feature/tagihan/riwayat-pengaturan-tagihan"
                 ]
               },
               {
                 "group": "Pembayaran",
                 "icon":"wallet",
                 "pages": [
-                  "main-feature/pembayaran-manual"
+                  "main-feature/pembayaran/pembayaran-manual"
                 ]
               },
               {
                 "group": "Integrasi Bank",
                 "icon":"landmark",
                 "pages": [
-                  "main-feature/inquiry-h2h"
+                  "main-feature/integrasi-bank/inquiry-h2h"
                 ]
               },
               {
                 "group": "Laporan Pembayaran",
                 "icon":"chart-column",
                 "pages": [
-                  "main-feature/daftar-tarif"
+                  "main-feature/laporan-pembayaran/daftar-tarif"
                 ]
               }
             ]

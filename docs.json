@@ -96,6 +96,10 @@
                 ]
               }
             ]
+          },
+          {
+            "group": "administrator",
+            "pages": ["manajemen-pengguna"]
           }
         ]
       },

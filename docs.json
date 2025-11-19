@@ -99,7 +99,7 @@
           },
           {
             "group": "Administrator",
-            "pages": ["manajemen-pengguna"]
+            "pages": ["administrator/manajemen-pengguna"]
           }
         ]
       },

@@ -5,30 +5,57 @@ description: "Menentukan daftar jenis pembayaran yang akan dibayarkan oleh calon
 
 Agar proses pembayaran berjalan benar, admin perlu memastikan semua jenis pembayaran ini sudah dibuat dan dikonfigurasi dengan tepat.
 
-Berikut langkah-langkahnya:
+<Steps>
+  <Step title="Masuk ke aplikasi ePembayaran.">
+    
+  </Step>
+  <Step title="Pada sidebar, pilih Pengaturan Pembayaran → Jenis Pembayaran.">
+    
+  </Step>
+  <Step title="Pada halaman Jenis Pembayaran, klik tombol Tambah">
+    
+  </Step>
+  <Step title="Isi data yang diperlukan:">
+    - Kode jenis pembayaran — kode unik untuk membedakan setiap jenis pembayaran.
+    - Nama jenis pembayaran — nama yang mudah dikenali oleh admin maupun pengguna.
+    - Tipe jenis pembayaran — pilih salah satu: Reguler, Periode, atau Pendaftaran.
 
-1. Masuk ke aplikasi ePembayaran.
-2. Pada sidebar, pilih Pengaturan Pembayaran → Jenis Pembayaran.
-3. Pada halaman Jenis Pembayaran, klik tombol Tambah.
-4. Isi data yang diperlukan:
-   - Kode jenis pembayaran — kode unik untuk membedakan setiap jenis pembayaran.
-   - Nama jenis pembayaran — nama yang mudah dikenali oleh admin maupun pengguna.
-   - Tipe jenis pembayaran — pilih salah satu: Reguler, Periode, atau Pendaftaran.
+      <Note>
+        **Tipe Pendaftaran**
 
-     <Note>
-       **Tipe Pendaftaran** 
+        Digunakan khusus untuk pembayaran yang terkait proses pendaftaran calon mahasiswa. Jenis ini akan dipakai saat melakukan pengaturan biaya pendaftaran.
+      </Note>
+      <Note>
+        **Tipe Reguler dan Periode**
 
-       Digunakan khusus untuk pembayaran yang terkait proses pendaftaran calon mahasiswa. Jenis ini akan dipakai saat melakukan pengaturan biaya pendaftaran.
+        Digunakan untuk pembayaran mahasiswa, baik per angkatan maupun per periode akademik.
+      </Note>
+    - Integrasi
 
-       **Tipe Reguler dan Periode **
+      Integrasi berguna untuk mengirimkan status pembayaran secara otomatis ke aplikasi lain (eAdmisi, eRegistrasi, eAkademik).
 
-       Digunakan untuk pembayaran mahasiswa, baik per angkatan maupun per periode akademik.
-     </Note>
-   - Integrasi (otomatis mengirim status pembayaran)
+      Langkah pengaturan:
+      1. Buka halaman Jenis Pembayaran (Pengaturan Pembayaran → Jenis Pembayaran).
+      2. Edit atau tambah jenis pembayaran yang diinginkan.
+      3. Pada bagian Integrasi, beri tanda centang (√) pada aplikasi tujuan yang harus menerima status pembayaran.
 
-     Integrasi berguna untuk mengirimkan status pembayaran secara otomatis ke aplikasi lain (mis. eRegistrasi, eAkademik).
+         <Tip>
+           Contoh Pengaturan Integrasi
 
-     Langkah pengaturan:
-     - Buka halaman Jenis Pembayaran (Pengaturan Pembayaran → Jenis Pembayaran).
-     - Edit atau tambah jenis pembayaran yang diinginkan. 
-     - Pada bagian Integrasi, beri tanda centang (√) pada aplikasi tujuan yang harus menerima status pembayaran.	
+           **Jenis Pembayaran Herregistrasi** → centang eRegistrasi dan eAkademik.
+
+           **Jenis Pembayaran Registrasi **→ centang eRegistrasi saja.
+         </Tip>
+    - Status Mahasiswa
+
+      Status mahasiswa menentukan status yang akan diberlakukan pada data mahasiswa.
+
+      Langkah pengaturan:
+      1. Pada form pembuatan/edit jenis pembayaran, cari field Status Mahasiswa.
+      2. Pilih status yang sesuai (misal: Calon Mahasiswa, Aktif, Lulus, Drop-out/Putus Studi, Keluar, Non Aktif, Cuti).
+      3. Simpan perubahan.
+  </Step>
+  <Step title="Klik tombol simpan untuk menyimpan data">
+    
+  </Step>
+</Steps>

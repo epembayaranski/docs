@@ -85,7 +85,8 @@
                 "group": "Integrasi Bank",
                 "icon":"landmark",
                 "pages": [
-                  "main-feature/integrasi-bank/inquiry-h2h"
+                  "main-feature/integrasi-bank/inquiry-h2h",
+                  "main-feature/integrasi-bank/e-collection"
                 ]
               },
               {

@@ -93,7 +93,14 @@
                 "group": "Laporan Pembayaran",
                 "icon":"chart-column",
                 "pages": [
-                  "main-feature/laporan-pembayaran/daftar-tarif"
+                  "main-feature/laporan-pembayaran/daftar-tarif",
+                  "main-feature/laporan-pembayaran/registrasi",
+                  "main-feature/laporan-pembayaran/pendaftaran",
+                  "main-feature/laporan-pembayaran/pembayaran-mahasiswa",
+                  "main-feature/laporan-pembayaran/riwayat-pembayaran",
+                  "main-feature/laporan-pembayaran/piutang-mahasiswa",
+                  "main-feature/laporan-pembayaran/rekap-pembayaran",
+                  "main-feature/laporan-pembayaran/penerimaan-pembayaran-mahasiswa"
                 ]
               }
             ]

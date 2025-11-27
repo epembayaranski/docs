@@ -86,7 +86,13 @@
                 "icon":"landmark",
                 "pages": [
                   "main-feature/integrasi-bank/inquiry-h2h",
-                  "main-feature/integrasi-bank/e-collection"
+                  "main-feature/integrasi-bank/e-collection",
+                  "main-feature/integrasi-bank/tagihan-p2h",
+                  "main-feature/integrasi-bank/import-pembayaran-bank",
+                  "main-feature/integrasi-bank/validasi-pembayaran-bank",
+                  "main-feature/integrasi-bank/rekonsiliasi-briva",
+                  "main-feature/integrasi-bank/rekonsiliasi-btnva",
+                  "main-feature/integrasi-bank/inquiry-briva"
                 ]
               },
               {
